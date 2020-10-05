@@ -1,1 +1,1 @@
-# learnES6
+# 学习《ECMAScript6入门》
